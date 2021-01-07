@@ -1,0 +1,2 @@
+com/rasus/configservermicroservice/ConfigServerMicroserviceApplication.java
+ com.rasus.configservermicroservice.ConfigServerMicroserviceApplication
